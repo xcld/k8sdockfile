@@ -1,0 +1,1 @@
+FROM gcr.io/istio-release/kubectl:master-20190222-09-16
